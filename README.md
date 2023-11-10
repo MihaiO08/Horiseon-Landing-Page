@@ -28,6 +28,9 @@ The user is able to navigate quickly between the cards (**Search Engine Optimiza
 ![Picture of the Navigation Bar contents](Screenshots/ss3.png)
 
 
+**The page can be accessed via this link:** https://mihaio08.github.io/Horiseon-Landing-Page/
+
+
 ## Credits
 
 ***N/A***
